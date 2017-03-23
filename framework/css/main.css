@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+*{
+  font-family: 'Lato', sans-serif;
+}
+
 
 /* FlexBox Grid */
 
@@ -85,4 +89,5 @@
   p {
     display: none;
   }
+}
 }
